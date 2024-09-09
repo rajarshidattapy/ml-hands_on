@@ -33,6 +33,10 @@ Install the requirements using:
 ```
 
 ## Dataset
+
+In October 2011, a professor from the University of Antwerp, named Frank installed solar panels (or Photovoltaic Modules) on his roof. The total power of the modules was 5kWp.
+He had daily recordings of his electricity usage so it was obvious to make a record of the power production of the solar panels. 
+
 The dataset consists of historical data on cumulative power generation, electricity consumption, and gas usage. It includes:
 - `cum_power`: Cumulative solar power generated.
 - `Elec_kW`: Electricity consumed.
